@@ -18,7 +18,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GaneshPrasad&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPrasad&theme=tokyonight" height="150"/>
 </p>
 
 
@@ -183,19 +182,7 @@ while(rs.next()){
 
 ---
 
-## 📸 Output Demo
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
-</p>
-
----
-
-## 👥 Contributors
-
-<p align="center">
-  <img src="https://contrib.rocks/image?repo=GaneshPrasad/Advanced-Java-Assignments" />
-</p>
 
 ---
 
