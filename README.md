@@ -1,7 +1,7 @@
 # 🚀 Advanced Java Assignments
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFCC&center=true&vCenter=true&width=600&lines=Advanced+Java+Lab+Assignments;Servlets+%7C+JDBC+%7C+Swing+%7C+Collections;Built+with+Java+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFCC&center=true&vCenter=true&width=700&lines=Advanced+Java+Lab+Assignments;Servlets+%7C+JDBC+%7C+Swing+%7C+Collections;Built+with+Java+%F0%9F%94%A5" />
 </p>
 
 <p align="center">
@@ -14,20 +14,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaneshPrasad&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshPrasad&theme=tokyonight" width="90%"/>
 </p>
 
-
----
-
-## 🎬 Project Preview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshPrasad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPrasad&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshPrasad&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
@@ -177,12 +176,15 @@ while(rs.next()){
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,mysql&perline=2" height="120"/>
 </p>
 
----
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Swing-GUI-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Servlets-Web-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JDBC-Database-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tomcat-Server-yellow?style=for-the-badge"/>
+</p>
 
 ---
 
