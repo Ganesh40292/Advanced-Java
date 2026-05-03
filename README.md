@@ -17,16 +17,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshPrasad&theme=tokyonight" width="90%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GaneshPrasad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPrasad&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshPrasad&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
