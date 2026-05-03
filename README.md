@@ -21,9 +21,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshPrasad&theme=tokyonight" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshPrasad&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
